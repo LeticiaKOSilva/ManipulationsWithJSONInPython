@@ -2,6 +2,7 @@
 
 ### -> Exercício da matéria de WebServices, onde com um JSON especifico solucionamos com linhas de código algumas perguntas.
 
+
 - O programa foi feito utilizando a linguagem Python;
 - Foi utilizado a  biblioteca json;
 - O JSON utilizado na atividade será esse:
