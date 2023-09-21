@@ -1,0 +1,12 @@
+
+INFORMACAO = "informacao"
+LIVROS = "livros"
+ROMANCE = "romance"
+TECNOLOGIA = "tecnologia"
+AUTOAJUDA = "autoajuda"
+NOME = "nome"
+TELEFONES = "telefones"
+TITULO = "titulo"
+COPIAS = "copias"
+EMPRESTADOS = "emprestados"
+AUTOR = "autor"
